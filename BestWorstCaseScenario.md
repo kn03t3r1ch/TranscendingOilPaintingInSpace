@@ -1,4 +1,4 @@
- ![MainImage](./img/Oil_1.png)
+ ![MainImage](./img/Oil_1.PNG)
 
 
  
@@ -104,10 +104,10 @@ ___
 
 ## Impressions
 
-![MainImage](./img/Oil_2.png)
-![MainImage](./img/Oil_3.png)
-![MainImage](./img/Oil_4.png)
-![MainImage](./img/Oil_5.png)
-![MainImage](./img/Oil_6.png)
-![MainImage](./img/Oil_7.png)
-![MainImage](./img/Oil_8.png)
+![MainImage](./img/Oil_2.PNG)
+![MainImage](./img/Oil_3.PNG)
+![MainImage](./img/Oil_4.PNG)
+![MainImage](./img/Oil_5.PNG)
+![MainImage](./img/Oil_6.PNG)
+![MainImage](./img/Oil_7.PNG)
+![MainImage](./img/Oil_8.PNG)
