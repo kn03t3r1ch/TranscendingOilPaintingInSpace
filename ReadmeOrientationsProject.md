@@ -7,3 +7,5 @@
 * [Happy.fxh](https://vvvv.org/contribution/happy.fxh)
 * [instanceNoodles](https://vvvv.org/contribution/instance-noodles)
 * you need a Kinect 
+* you need [VCV-Rack](https://vcvrack.com/)
+* you need [loop-Midi](https://www.tobias-erichsen.de/software/loopmidi.html)
